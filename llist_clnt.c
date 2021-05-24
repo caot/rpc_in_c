@@ -3,6 +3,7 @@
  * It was generated using rpcgen.
  */
 
+#include <string.h>
 #include "llist.h"
 
 /* Default timeout can be changed using clnt_control() */

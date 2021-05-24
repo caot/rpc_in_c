@@ -2,7 +2,8 @@
   llist printer RPC client
   by Jeff Bezanson
 */
-
+#include <stdio.h>
+#include <stdlib.h>
 #include "llist.h"
 
 list *mk_list(char *data, int key, color c)
